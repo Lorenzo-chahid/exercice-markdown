@@ -39,6 +39,18 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
 
 On peut aussi combiner des balises ! ~~***grosmichel***~~ ⇒ `~~***grosmichel***~~`
 ##### Listes
+###### Listes à puces (`<ul>`)
+```
+* Un élément
+* Un autre élément
+    * Un sous élément avec au moins quatre espaces devant
+```
+**N. B.** : L'astérique peut être remplacé par un '+' ou un '-'
+###### Listes ordonnées (`<ol>`)
+```
+1. Premier élément
+2. Deuxième élément
+``` 
 ##### Titres
 ##### Tableaux
 ##### Liens et images
