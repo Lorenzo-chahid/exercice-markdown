@@ -12,13 +12,13 @@ Pour créer un fichier markdown, rien de plus simple ! Il suffit de créer un no
 ##### Tester son Markdown
 Si vous travailler sur GitHub, il est tout bêtement possible de prévisualiser vos modifications avant de les *commit*. Autrement, il existe plusieurs éditeurs markdown en ligne, [en voici un](https://dillinger.io/).
 ## 2. Les différentes balises markdown
-##### ► Balises de formatage
+##### Balises de formatage
 * **gras** (`<strong>`) ⇒⇒⇒ `**gras**`
 * *italique* (`<em>`) ⇒⇒⇒ `*italique*`ou `_italique_`
-##### ► Listes
-##### ► Titres
-##### ► Tableaux
-##### ► Liens et images
+##### Listes
+##### Titres
+##### Tableaux
+##### Liens et images
 ## 3. Pour aller plus loin…
 Rien à voir avec Markdown, mais en matière de personnalisation de vos textes, Unicode offre tout un tas de possibilités intéressantes !
 1. **Ajouter des emoji**
