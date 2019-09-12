@@ -89,3 +89,8 @@ Rien à voir avec Markdown, mais en matière de personnalisation de vos textes, 
     * Le standard Unicode contient naturellement un bon paquet d'emoji que vous pouvez copier/coller dans vos textes. Une liste exhaustive des émoticônes utilisables est disponible à [cette adresse](https://unicode.org/emoji/charts/full-emoji-list.html)
     * ⚠ Il peut arriver que certains emoji ne soient pas tout à fait les mêmes d'un support à l'autre, ni même d'un système d'exploitation à l'autre !
 2. **ᔕTYᒪIᔕEᖇ ᒪEᔕ ᑭOᒪIᑕEᔕ ᗩᐯEᑕ ᑌᑎIᑕOᗪE**
+    * Unicode dispose également de nombreux caractères alphabétiques alternatifs avec lesquels vous pouvez jongler pour customiser votre texte ! [Ce site](https://coolsymbol.com/text-decoration.html) en référence quelques-uns.
+    * ⚠ Certains appareils (surtout les anciens appareils mobiles) peuvent parfois ne pas supporter ces caractères spéciaux. 
+## 4. Index
+1. README.md
+2. jsp
