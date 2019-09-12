@@ -4,10 +4,11 @@ Devoir systématiquement passer par les balises HTML pour personnaliser du conte
 ##### … Markdown ?
 Markdown est un petit langage très léger qui permet d'écrire l'équivalent de certaines balises HTML de façon simplifiée. Par exemple, si je veux écrire **grosmichel** en gras, plutôt que d'écrire `<strong>grosmichel</strong>`, Markdown me permet d'écrire uniquement `**grosmichel**` !
 
-Cette syntaxe est notamment très utile sur **GitHub**, car elle correspond au format de vos fichiers `README.md`… que vous pouvez donc embellir très facilement en utilisant Markdown ! Elle est également prise en charge par de nombreux forums et logiciels de communication, tels que **Discord** (partiellement) et **Ryver** (totalement).
-<br><br>![](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?uselang=fr)
-<br>
+Cette syntaxe est notamment très utile sur **GitHub**, car elle correspond au format de vos fichiers `README.md`… que vous pouvez donc embellir très facilement en utilisant Markdown ! Elle est également prise en charge par de nombreux forums et logiciels de communication, tels que **Discord** (partiellement) et **Ryver** (totalement).<br>
 ###### Le logo de Markdown
+<br>
+![](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?uselang=fr)
+<br>
 ##### Créer un fichier markdown
 Pour créer un fichier markdown, rien de plus simple ! Il suffit de créer un nouveau fichier avec l'extension `.md`. Il ne vous reste ensuite qu'à l'ouvrir et à le modifier avec votre éditeur de texte préféré 🤠
 ##### Tester son Markdown
