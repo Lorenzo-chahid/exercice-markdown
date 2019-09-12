@@ -17,7 +17,6 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
 * *italique* (`<em>`) ⇒ `*italique*`ou `_italique_`
 * s̲o̲u̲l̲i̲gn̲é (`<u>`) ⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
 * ~~barré~~ (`<strike>`) ⇒ `~~barré~~`
-(`<blockquote>`)
 * `code` (`<code>`) ⇒ ``­`code`­``
     * On peut aussi utiliser la coloration syntaxique !
     ```javascript
@@ -37,7 +36,7 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
     `­`­`
 * > Et finalement, il est également possible de faire des citations (`<blockquote>`) en commençant notre ligne par '>'.
 
-On peut aussi combiner des balises ! ~~***grosmichel***~~ ⇒ `~~***grosmichel***~~`
+On peut carrément combiner des balises ! ~~***grosmichel***~~ ⇒ `~~***grosmichel***~~`
 #### Listes
 ###### Listes à puces (`<ul>`)
 ```
@@ -70,10 +69,23 @@ Titre de niveau 2
 -----------------
 ```
 #### Tableaux
+Les tableaux se définissent en séparant les différentes colonnes qui le constituent par des tuyaux ('|'). La première rangée de votre tableau contient le titre de la colonne, et la deuxième doit contenir au moins un tiret pour que le tableau soit correctement défini. L'ajout d'un deux-points permet de spécifier l'alignement du contenu : à droite, à gauche, ou au centre, suivant où vous placez le deux-point par rapport au tiret. Les troisième et énièmes lignes reçoivent le contenu des différentes colonnes.
+```
+|  Titre col. 1 |   Titre col. 2  |  Titre col. 3  |
+| :------------ | :-------------: | -------------: |
+| shrek         |     bourdon     |        Dreyfus |
+| michel        |      HELP       |       aarrgghh |
+| yahou!!       |     centre      |                |
+```
 #### Liens et images
+Il est possible d'ajouter des [liens](https://www.youtube.com/watch?v=dQw4w9WgXcQ) par dessus le texte : `[texte à afficher](http://ton-lien.com)`… mais aussi des images !
+
+![Une incroyable image](https://cdn.discordapp.com/attachments/453599269526568960/621678263055679519/LTFOE_Rire_du_Roi.gif "Un super titre")
+
+Ajouter une image : `![texte alternatif](http://ton-lien.com "titre de l'image")`
 ## 3. Pour aller plus loin…
 Rien à voir avec Markdown, mais en matière de personnalisation de vos textes, Unicode offre tout un tas de possibilités intéressantes !
 1. **Ajouter des emoji** 👺
-    * Le standard Unicode contient naturellement un bon paquet d'emoji que vous pouvez simplement copier/coller dans vos textes. Une liste exhaustive est disponible à [cette adresse](https://unicode.org/emoji/charts/full-emoji-list.html)
+    * Le standard Unicode contient naturellement un bon paquet d'emoji que vous pouvez copier/coller dans vos textes. Une liste exhaustive des émoticônes utilisables est disponible à [cette adresse](https://unicode.org/emoji/charts/full-emoji-list.html)
     * ⚠ Il peut arriver que certains emoji ne soient pas tout à fait les mêmes d'un support à l'autre, ni même d'un système d'exploitation à l'autre !
 2. **ᔕTYᒪIᔕEᖇ ᒪEᔕ ᑭOᒪIᑕEᔕ ᗩᐯEᑕ ᑌᑎIᑕOᗪE**
