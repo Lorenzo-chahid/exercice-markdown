@@ -3,6 +3,10 @@
 Welcome in our first _markdown_ exercice ! <br />
 Let's go visit ours files 
 
+![test](https://media.giphy.com/media/5nkIn9AEfUQ6JtXL43/giphy.gif)
+
+---------------------------------------------------------------------------------------------------------
+
 # CONTENT
 
 Thi repo contains 2 files :
@@ -16,6 +20,7 @@ The second file contains the guide for learn with big optimization alone :boom: 
 
 
 
+---------------------------------------------------------------------------------------------------------
 
 
 
