@@ -6,8 +6,8 @@ Markdown est un petit langage très léger qui permet d'écrire l'équivalent de
 
 Cette syntaxe est notamment très utile sur **GitHub**, car elle correspond au format de vos fichiers `README.md`… que vous pouvez donc embellir très facilement en utilisant Markdown ! Elle est également prise en charge par de nombreux forums et logiciels de communication, tels que **Discord** (partiellement) et **Ryver** (totalement).
 <br><br>![](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?uselang=fr)
-<br><br>
-**Le logo de Markdown**
+<br>
+###### Le logo de Markdown
 ##### Créer un fichier markdown
 Pour créer un fichier markdown, rien de plus simple ! Il suffit de créer un nouveau fichier avec l'extension `.md`. Il ne vous reste ensuite qu'à l'ouvrir et à le modifier avec votre éditeur de texte préféré 🤠
 ##### Tester son Markdown
