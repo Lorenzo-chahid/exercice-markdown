@@ -15,7 +15,7 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
 ##### Balises de formatage
 * **gras** (`<strong>`) ⇒⇒⇒ `**gras**`
 * *italique* (`<em>`) ⇒⇒⇒ `*italique*`ou `_italique_`
-* __souligné__ (`<u>`) ⇒⇒⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\_(ツ)_/¯)
+* __souligné__ (`<u>`) ⇒⇒⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
 * ~~barré~~ (`<strike>`) ⇒⇒⇒ `~~barré~~`
 (`<blockquote>`)
 * `code` (`<code>`) ⇒⇒⇒ ``­`code`­``
