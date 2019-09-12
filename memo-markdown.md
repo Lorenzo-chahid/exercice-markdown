@@ -51,18 +51,18 @@ On peut aussi combiner des balises ! ~~***grosmichel***~~ ⇒ `~~***grosmichel**
 1. Premier élément
 2. Deuxième élément
 ``` 
-###### Cases cochables
+###### Cases cochables (`<input type="checkbox">`)
 - [ ] Case non cochée `- [ ]`
 - [x] Case cochée `- [x]`
 #### Titres
-Titres de niveau 1 à 6 (`<h1>` à `<h6>`)
+Titres de niveau 1 à 6 (`<h1>` à `<h6>`) :
 ```
 # Titre de niveau 1
 ## Titre de niveau 2
 ### Titre de niveau 3
 […]
 ```
-Pour les titres de niveaux 1 et 2, il est également possible de les souligner avec des = et des - (au moins 2)
+Pour les titres de niveaux 1 et 2, il est également possible de les souligner avec des '=' et des '-' (au moins 2) :
 ```
 Titre de niveau 1
 =================
