@@ -12,7 +12,7 @@ Pour créer un fichier markdown, rien de plus simple ! Il suffit de créer un no
 ##### Tester son Markdown
 Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser vos modifications avant de les *commit*. Autrement, il existe plusieurs éditeurs markdown en ligne, [en voici un](https://dillinger.io/).
 ## 2. Les différentes balises markdown
-##### Balises de formatage
+#### Balises de formatage
 * **gras** (`<strong>`) ⇒ `**gras**`
 * *italique* (`<em>`) ⇒ `*italique*`ou `_italique_`
 * s̲o̲u̲l̲i̲gn̲é (`<u>`) ⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
@@ -38,7 +38,7 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
 * > Et finalement, il est également possible de faire des citations (`<blockquote>`) en commençant notre ligne par '>'.
 
 On peut aussi combiner des balises ! ~~***grosmichel***~~ ⇒ `~~***grosmichel***~~`
-##### Listes
+#### Listes
 ###### Listes à puces (`<ul>`)
 ```
 * Un élément
@@ -54,7 +54,7 @@ On peut aussi combiner des balises ! ~~***grosmichel***~~ ⇒ `~~***grosmichel**
 ###### Cases cochables
 - [ ] Case non cochée `- [ ]`
 - [x] Case cochée `- [x]`
-##### Titres
+#### Titres
 Titres de niveau 1 à 6 (`<h1>` à `<h6>`)
 ```
 # Titre de niveau 1
@@ -69,8 +69,8 @@ Titre de niveau 1
 Titre de niveau 2
 -----------------
 ```
-##### Tableaux
-##### Liens et images
+#### Tableaux
+#### Liens et images
 ## 3. Pour aller plus loin…
 Rien à voir avec Markdown, mais en matière de personnalisation de vos textes, Unicode offre tout un tas de possibilités intéressantes !
 1. **Ajouter des emoji** 👺
