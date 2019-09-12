@@ -15,7 +15,7 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
 ##### Balises de formatage
 * **gras** (`<strong>`) ⇒⇒⇒ `**gras**`
 * *italique* (`<em>`) ⇒⇒⇒ `*italique*`ou `_italique_`
-* __souligné__ (`<u>`) ⇒⇒⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
+* s̲o̲u̲l̲i̲gn̲é (`<u>`) ⇒⇒⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
 * ~~barré~~ (`<strike>`) ⇒⇒⇒ `~~barré~~`
 (`<blockquote>`)
 * `code` (`<code>`) ⇒⇒⇒ ``­`code`­``
@@ -47,4 +47,4 @@ Rien à voir avec Markdown, mais en matière de personnalisation de vos textes, 
 1. **Ajouter des emoji** 👺
     * Le standard Unicode contient naturellement un bon paquet d'emoji que vous pouvez simplement copier/coller dans vos textes. Une liste exhaustive est disponible à [cette adresse](https://unicode.org/emoji/charts/full-emoji-list.html)
     * ⚠ Il peut arriver que certains emoji ne soient pas tout à fait les mêmes d'un support à l'autre, ni même d'un système d'exploitation à l'autre !
-2. **𝕾𝖙𝖞𝖑𝖎𝖘𝖊𝖗 𝖑𝖊𝖘 𝖕𝖔𝖑𝖎𝖈𝖊𝖘 𝖆𝖛𝖊𝖈 𝖀𝖓𝖎𝖈𝖔𝖉𝖊**
+2. **ᔕTYᒪIᔕEᖇ ᒪEᔕ ᑭOᒪIᑕEᔕ ᗩᐯEᑕ ᑌᑎIᑕOᗪE**
