@@ -92,5 +92,5 @@ Rien à voir avec Markdown, mais en matière de personnalisation de vos textes, 
     * Unicode dispose également de nombreux caractères alphabétiques alternatifs avec lesquels vous pouvez jongler pour customiser votre texte ! [Ce site](https://coolsymbol.com/text-decoration.html) en référence quelques-uns.
     * ⚠ Certains appareils (surtout les anciens appareils mobiles) peuvent parfois ne pas supporter ces caractères spéciaux. 
 ## 4. Index
-1. README.md
-2. jsp
+1. [Environnement d'Apprentissage Optimisé](https://github.com/olivierHuvelle/exercice-markdown/blob/master/PLE.md)
+2. [README.md](https://github.com/olivierHuvelle/exercice-markdown/blob/master/README.md)
