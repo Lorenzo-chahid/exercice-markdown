@@ -69,3 +69,6 @@
 		* 70% des connaissances sont intégrées au travers de la composante directe de l'approche mixte 
 >[source cliquable](https://www.mailleuxassociates.com/fr/what-we-do/journal/item/384-comment-optimiser-votre-environnement-d-apprentissage-virtuel-optez-pour-l-approche-mixte)
 
+## 4. Index
+1. [Memo.md](https://github.com/olivierHuvelle/exercice-markdown/blob/master/memo-markdown.md)
+2. [README.md](https://github.com/olivierHuvelle/exercice-markdown/blob/master/README.md)
