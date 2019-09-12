@@ -35,7 +35,7 @@ Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser 
 	return str;
     }
     `­`­`
-* > Et finalement, il est également possible de faire des citations (<blockquote>) en commençant notre ligne par '>'
+* > Et finalement, il est également possible de faire des citations (`<blockquote>`) en commençant notre ligne par '>'
 
 On peut aussi combiner des balises ! ~~***grosmichel***~~ ⇒⇒⇒ `~~***grosmichel***~~`
 ##### Listes
