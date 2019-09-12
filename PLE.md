@@ -18,7 +18,7 @@
 
 --------------------------------------
 
-### 2. Histoire et piliers
+## 2. Histoire et piliers
 
 * A.3 piliers avec leurs histoires (qui forment l'environnement de développement)
 	* i. Evolution des théories de pédagogie
@@ -39,3 +39,33 @@
 
 * B.Source
 	*	>[Source cliquable](https://epale.ec.europa.eu/fr/node/14159)
+
+-----------------------------------------------------
+
+## Avantages et limitations 
+1. **Avantages**
+1.1. Correspond à une méthode plus *physiolique* de l'apprentissage
+1.2. Correspond aussi à une *tendance d'avenir* avec la popularisation des technologies du web 
+2. **Limitations**
+2.1. Demande un *niveau d'autonomie* élevé de l'apprenant (définition des objectifs, planning, ...)
+2.2. Demande une connaissance et un accès aux *technologies associées au domaine du numérique*
+
+----------------------------------------------
+
+## Comment optimiser son environnement d'apprentissage : l'approche mixte 
+1. **Apprendre à apprendre**
+	* Définir ses objectifs 
+	* Développer sa posture face à l'échec 
+	* ... 
+	* >[Voici un tutoriel pour devenir un super-apprenant](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre)
+2. **Développer ses ressources matérielles**
+	* Créer son réseau (co-apprenants, mentors voir modèles)
+	* Développer sa maîtrise des outils informatiques (accès et partage de ressources etc)
+3. **Approche mixte**
+	* C'est apprendre en autonomie (en solitaire)
+	* C'est aussi et surtout être confronté en groupe à des problématiques en temps réel 
+		* Sortir de sa zone de confort
+		* Commencer le cycle vertueux : problématique -> échec -> re-tentative -> ... 
+		* 70% des connaissances sont intégrées au travers de la composante directe de l'approche mixte 
+>[source cliquable](https://www.mailleuxassociates.com/fr/what-we-do/journal/item/384-comment-optimiser-votre-environnement-d-apprentissage-virtuel-optez-pour-l-approche-mixte)
+
