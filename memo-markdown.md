@@ -13,12 +13,12 @@ Pour créer un fichier markdown, rien de plus simple ! Il suffit de créer un no
 Si vous travaillez sur GitHub, il est tout bêtement possible de prévisualiser vos modifications avant de les *commit*. Autrement, il existe plusieurs éditeurs markdown en ligne, [en voici un](https://dillinger.io/).
 ## 2. Les différentes balises markdown
 ##### Balises de formatage
-* **gras** (`<strong>`) ⇒⇒⇒ `**gras**`
-* *italique* (`<em>`) ⇒⇒⇒ `*italique*`ou `_italique_`
-* s̲o̲u̲l̲i̲gn̲é (`<u>`) ⇒⇒⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
-* ~~barré~~ (`<strike>`) ⇒⇒⇒ `~~barré~~`
+* **gras** (`<strong>`) ⇒ `**gras**`
+* *italique* (`<em>`) ⇒ `*italique*`ou `_italique_`
+* s̲o̲u̲l̲i̲gn̲é (`<u>`) ⇒ `__souligné__` (ne fonctionne pas sur GitHub ¯\\\_(ツ)_/¯)
+* ~~barré~~ (`<strike>`) ⇒ `~~barré~~`
 (`<blockquote>`)
-* `code` (`<code>`) ⇒⇒⇒ ``­`code`­``
+* `code` (`<code>`) ⇒ ``­`code`­``
     * On peut aussi utiliser la coloration syntaxique !
     ```javascript
     function toCamelCase(str) {
